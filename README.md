@@ -14,6 +14,7 @@ Voici mes projets réalisés au cours de mon master :
 |Domaine(s)| Projet | Description | Lien |
 |:------------|:--------|:-------------|:------|
 | ... | ... | ... | [Projet Dedale](https://github.com/jjriby/FOSYMA) |
+| ... | ... | ... | [Projet Pogobot](https://github.com/Stalkyyy/pogobot-swarm-behaviors) |
 
 
 Voici mes projets à venir :
