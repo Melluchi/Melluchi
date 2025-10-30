@@ -22,6 +22,6 @@ Voici mes projets à venir / en cours :
 
 |Domaine(s)| Projet | Description | Lien |
 |:------------|:--------|:-------------|:------|
-| IA pour l’adaptation d’environnements multimodaux | ... | Développement d'un jeu sérieux permettant d'apprendre le Morse par oculométrie | ... |
+| IA pour l’adaptation d’environnements multimodaux | ... | Développement d'un jeu sérieux permettant d'apprendre le Morse par oculométrie (clignements d'yeux) | ... |
 | Systèmes multi-agents | Ecotopia | Modélisation et simulation d'une utopie d'agents, basée sur l'écologie et réalisée en GAMA | ... |
 
