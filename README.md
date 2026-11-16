@@ -1,8 +1,8 @@
 # Projets - Master AI2D
 
-Bonjour, je suis étudiante en dernière année de **master AI2D - "Algorithmes, Intelligence Artificielle, Interaction et Décision"** à *Sorbonne Université*.
+Bonjour, je suis fraîchement diplômée du Master Informatique spécialité **AI2D - "Algorithmes, Intelligence Artificielle, Interaction et Décision"** à *Sorbonne Université*.
 
-Je suis passionnée par l'**intelligence artificielle** et plus particulièrement  dans les domaines des **systèmes multi-agents**, la **recherche opérationnelle**, la **robotique** et les **environnements interactifs**.
+Je suis passionnée par l'**intelligence artificielle** et plus particulièrement les domaines des **systèmes multi-agents**, de la **recherche opérationnelle**, de la **robotique et machine learning**, et de l'**interaction humain machine**.
 
 Voici mes principaux projets réalisés au cours de mon master.
 
@@ -21,6 +21,6 @@ Voici mes principaux projets réalisés au cours de mon master.
 
 |Domaine(s)| Projet | Description | Lien |
 |:------------|:--------|:-------------|:------|
-| IA pour l’adaptation d’environnements multimodaux | BlinkMorse | Développement d'un jeu sérieux permettant d'apprendre le Morse par oculométrie (clignements d'yeux) | [Projet BlinkMorse](https://github.com/Safia261/BlinkMorse) |
+| Interaction humain machine | BlinkMorse | Développement d'un jeu sérieux permettant d'apprendre le Morse par oculométrie (clignements d'yeux) | [Projet BlinkMorse](https://github.com/Safia261/BlinkMorse) |
 | Systèmes multi-agents | Ecotopia | Modélisation et simulation d'une utopie d'agents, basée sur l'écologie et réalisée en GAMA (partie alimentation)| [Projet Ecotopia](https://github.com/nolydeer/ecotopia-simulation/tree/main) |
 | Recherche opérationnelle | PD-TSP | Modélisation et résolution d'une variante du Pick-and-Deliver Traveling Salesman Problem | [Projet PD-TSP](https://github.com/Melluchi/MAOA) |
